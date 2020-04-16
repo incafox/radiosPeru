@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1053528582970",
+    "firebase_url": "https://radiosperu-6a91d.firebaseio.com",
+    "project_id": "radiosperu-6a91d",
+    "storage_bucket": "radiosperu-6a91d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053528582970:android:e4a09d046cc9a826",
+        "android_client_info": {
+          "package_name": "twelveangles.radioperufixed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053528582970-2fu8fmt9qqs9kfielr4ff4k83v20bk53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDylWd9lRedtK6_qc0hHGuJc9QHu58KVkY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
